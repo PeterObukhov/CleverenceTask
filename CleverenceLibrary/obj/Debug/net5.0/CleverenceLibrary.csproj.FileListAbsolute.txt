@@ -1,0 +1,12 @@
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\bin\Debug\net5.0\CleverenceLibrary.deps.json
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\bin\Debug\net5.0\CleverenceLibrary.dll
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\bin\Debug\net5.0\CleverenceLibrary.pdb
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\CleverenceLibrary.csproj.AssemblyReference.cache
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\CleverenceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\CleverenceLibrary.AssemblyInfoInputs.cache
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\CleverenceLibrary.AssemblyInfo.cs
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\CleverenceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\CleverenceLibrary.dll
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\refint\CleverenceLibrary.dll
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\CleverenceLibrary.pdb
+C:\Users\petro\source\repos\Cleverence\CleverenceLibrary\obj\Debug\net5.0\ref\CleverenceLibrary.dll
